@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container {
+    width: 70%;
+    margin-top: 2em;
+    background-color: honeydew;
+    padding: 1em;
+}
+
+body {
+    background-color: beige;
+}
+
+.col {
+    background: black;
+}
